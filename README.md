@@ -1,7 +1,9 @@
 # SAE-15-Mini-projet
+
+# Groupe : Balazuc Mathéo et Vullo ELie (RT1)
+
 SAE15 – Traiter des données <br>
 
-**Groupe : Balazuc Mathéo et Vullo Elie**
 
 
 
