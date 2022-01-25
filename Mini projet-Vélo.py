@@ -1,4 +1,5 @@
 import requests 
+import time
 from lxml import etree
 from time import sleep
 
