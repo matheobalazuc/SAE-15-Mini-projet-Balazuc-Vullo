@@ -10,8 +10,8 @@ for i in parkings: #pour un nombre quelconque (i) dans la liste des parkings
 	f1.write(response.text) #écriture du fichier en text
 	f1.close()
 	tree = etree.parse("FR_MTP_COME.txt") #fonction pour analyser et créer des données XML.
-	for user in tree.xpath("Name"): 
-		print('Nom du parking :',user.text) 
-	for user in tree.xpath("Free"): 
-		print('Nombre de places libres :',user.text)
+	for user in tree.xpath("Name"): #le programme récupère les données dans la variable "Name"(nom du parking) du fichier .txt
+		print('Nom du parking :',user.text) #le programme affiche les données dans la variable "Name"(nom du parking) du fichier .txt
+	for user in tree.xpath("Free"): #le programme récupère les données dans la variable "Free"(place libre) du fichier .txt
+		print('Nombre de places libres :',user.text) #le programme affiche les données dans la variable "Free"(place libre) du fichier .txt
 
