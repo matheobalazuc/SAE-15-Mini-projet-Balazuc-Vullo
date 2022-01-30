@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:05:56</DateTime>
+	<Name>ANTI</Name>
+	<Status>Open</Status>
+	<Free>0163</Free>
+	<Total>0239</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:05:58</DateTime>
+	<Name>COME</Name>
+	<Status>Open</Status>
+	<Free>0483</Free>
+	<Total>0835</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:05:56</DateTime>
+	<Name>CORU</Name>
+	<Status>Open</Status>
+	<Free>0274</Free>
+	<Total>0430</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:05:56</DateTime>
+	<Name>EURO</Name>
+	<Status>Open</Status>
+	<Free>0477</Free>
+	<Total>0593</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:04:56</DateTime>
+	<Name>FOCH</Name>
+	<Status>Open</Status>
+	<Free>0272</Free>
+	<Total>0540</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+	<DateTime>2022-01-30T16:05:55</DateTime>
+	<Name>GAMB</Name>
+	<Status>Open</Status>
+	<Free>0181</Free>
+	<Total>0470</Total>
+</park>
+<?xml version="1.0"?>
+<park xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateTime>2022-01-30T16:06:04</DateTime>
+  <Name>GARE</Name>
+  <Status>Open</Status>
+  <Free>383</Free>
+  <Total>656</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park><?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2022-01-30T16:06:09.165</DateTime>
+<Name>Triangle</Name>
+<Status>Open</Status>
+<Free>321</Free>
+<Total>436</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:04:52</DateTime>
+	<Name>ARCT</Name>
+	<Status>Open</Status>
+	<Free>0198</Free>
+	<Total>0460</Total>
+</park>
+<?xml version="1.0" encoding="UTF-8" ?>
+<park>
+<DateTime>2022-01-30T16:05:09.519</DateTime>
+<Name>Pitot</Name>
+<Status>Open</Status>
+<Free>427</Free>
+<Total>588</Total>
+<DisplayOpenIf>100</DisplayOpenIf>
+<Reserve></Reserve>
+</park>
+<?xml version="1.0" encoding="UTF-8"?> 
+<park>
+	<DateTime>2018-05-30T14:02:56</DateTime>
+	<Name>CIRC</Name>
+	<Status>Open</Status>
+	<Free>0585</Free>
+	<Total>1200</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:06:53</DateTime>
+	<Name>SABI</Name>
+	<Status>Open</Status>
+	<Free>0324</Free>
+	<Total>0485</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:03:58</DateTime>
+	<Name>GARD</Name>
+	<Status>Open</Status>
+	<Free>0304</Free>
+	<Total>0395</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:06:53</DateTime>
+	<Name>SABI</Name>
+	<Status>Open</Status>
+	<Free>0324</Free>
+	<Total>0485</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:03:10</DateTime>
+	<Name>MOSS</Name>
+	<Status>Open</Status>
+	<Free>0265</Free>
+	<Total>0423</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:04:58</DateTime>
+	<Name>SJLC</Name>
+	<Status>Open</Status>
+	<Free>0211</Free>
+	<Total>0290</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:05:55</DateTime>
+	<Name>MEDC</Name>
+	<Status>Open</Status>
+	<Free>0161</Free>
+	<Total>0255</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:04:52</DateTime>
+	<Name>OCCI</Name>
+	<Status>Open</Status>
+	<Free>0588</Free>
+	<Total>0627</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:02:59</DateTime>
+	<Name>VICA</Name>
+	<Status>Open</Status>
+	<Free>0057</Free>
+	<Total>0074</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:06:23</DateTime>
+	<Name>GAUMONT-EST</Name>
+	<Status>Open</Status>
+	<Free>0099</Free>
+	<Total>0109</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:06:23</DateTime>
+	<Name>GAUMONT-OUEST</Name>
+	<Status>Open</Status>
+	<Free>0086</Free>
+	<Total>0250</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:04:58</DateTime>
+	<Name>CDGA</Name>
+	<Status>Open</Status>
+	<Free>0119</Free>
+	<Total>0260</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?> 
+<park>
+	<DateTime>2022-01-30T16:05:59</DateTime>
+	<Name>ARCE</Name>
+	<Status>Open</Status>
+	<Free>0230</Free>
+	<Total>0230</Total>
+</park>
+<?xml version='1.0' encoding='UTF-8'?>
+<park>
+  <DateTime>2022-01-04T18:57:40.845339500</DateTime>
+  <Name>POLY</Name>
+  <Status>Open</Status>
+  <Free>1448</Free>
+  <Total>1911</Total>
+  <DisplayOpenIf>-1</DisplayOpenIf>
+</park>
