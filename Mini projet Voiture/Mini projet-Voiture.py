@@ -1,4 +1,5 @@
 from encodings import utf_8
+from socketserver import BaseRequestHandler
 import requests #requests est un module python permettant d'utiliser le protocole http
 from lxml import etree #pour importer le librairie html
 from lxml import etree
@@ -19,24 +20,27 @@ for i in parkings: #pour un nombre quelconque (i) dans la liste des parkings
 	
 	
 	f1=open("Resultat.txt","a", encoding='utf8')
+	for user in tree.xpath("DateTime"): #le programme récupère les données dans la variable "Free"(place libre) du fichier .txt
+		print('Date :',user.text) #le programme affiche les données dans la variable "Free"(place libre) du fichier .txt
+		f1.write("Date :")
+		f1.write(user.text)
+		f1.write("\n")
 	for user in tree.xpath("Name"): #le programme récupère les données dans la variable "Name"(nom du parking) du fichier .txt
 		print('Nom du parking :',user.text)
 		f1.write("Nom de parkings :")
-		f1.write("\n")
 		f1.write(user.text) #le programme affiche les données dans la variable "Name"(nom du parking) du fichier .txt
+		f1.write("\n")
 	for user in tree.xpath("Free"): #le programme récupère les données dans la variable "Free"(place libre) du fichier .txt
 		print('Nombre de places libres :',user.text) #le programme affiche les données dans la variable "Free"(place libre) du fichier .txt
 		f1.write("Nom de places libres :")
-		f1.write("\n")
 		f1.write(user.text)
+		f1.write("\n")
 	for user in tree.xpath("Total"): #le programme récupère les données dans la variable "Free"(place libre) du fichier .txt
 		print('Nombre de places au total :',user.text) #le programme affiche les données dans la variable "Free"(place libre) du fichier .txt
 		f1.write("Nombres de places au total :")
-		f1.write("\n")
 		f1.write(user.text)
-print(Données)
-print("Attend 10 secondes")
-time.sleep(10)
+		f1.write("\n")
+
 
 
 
