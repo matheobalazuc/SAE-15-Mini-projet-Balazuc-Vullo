@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?> 
-<park>
-	<DateTime>2022-01-30T16:05:56</DateTime>
-	<Name>CORU</Name>
-	<Status>Open</Status>
-	<Free>0274</Free>
-	<Total>0430</Total>
-</park>
