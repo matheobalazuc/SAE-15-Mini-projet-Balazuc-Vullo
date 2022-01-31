@@ -18,8 +18,16 @@ for i in parkings: #pour un nombre quelconque (i) dans la liste des parkings
 	for user in tree.xpath("Name"): #le programme récupère les données dans la variable "Name"(nom du parking) du fichier .txt
 		print('Nom du parking :',user.text)
 		f1.write("Nom de parkings :")
-		#f1.write("\n")
+		f1.write("\n")
 		f1.write(user.text) #le programme affiche les données dans la variable "Name"(nom du parking) du fichier .txt
 	for user in tree.xpath("Free"): #le programme récupère les données dans la variable "Free"(place libre) du fichier .txt
 		print('Nombre de places libres :',user.text) #le programme affiche les données dans la variable "Free"(place libre) du fichier .txt
+		f1.write("Nom de places libres :")
+		f1.write("\n")
+		f1.write(user.text)
+	for user in tree.xpath("Total"): #le programme récupère les données dans la variable "Free"(place libre) du fichier .txt
+		print('Nombre de places au total :',user.text) #le programme affiche les données dans la variable "Free"(place libre) du fichier .txt
+		f1.write("Nombres de places au total :")
+		f1.write("\n")
+		f1.write(user.text)
 
