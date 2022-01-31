@@ -1,47 +1,180 @@
-Date :2022-01-31T19:41:54Nom de parkings :ANTINom de places libres :0148Nombres de places au total :0239Date :2022-01-31T19:41:52Nom de parkings :COMENom de places libres :0341Nombres de places au total :0835Date :2022-01-31T19:41:52Nom de parkings :CORUNom de places libres :0213Nombres de places au total :0430Date :2022-01-31T19:41:56Nom de parkings :EURONom de places libres :0474Nombres de places au total :0593Date :2022-01-31T19:39:54Nom de parkings :FOCHNom de places libres :0178Nombres de places au total :0540Date :2022-01-31T19:41:50Nom de parkings :GAMBNom de places libres :0121Nombres de places au total :0470Date :2022-01-31T19:42:02Nom de parkings :GARENom de places libres :412Nombres de places au total :656Date :2022-01-31T19:42:09.948Nom de parkings :TriangleNom de places libres :258Nombres de places au total :436Date :2022-01-31T19:39:56Nom de parkings :ARCTNom de places libres :0140Nombres de places au total :0460Date :2022-01-31T19:41:09.851Nom de parkings :PitotNom de places libres :381Nombres de places au total :588Date :2018-05-30T14:02:56Nom de parkings :CIRCNom de places libres :0585Nombres de places au total :1200Date :2022-01-31T19:41:56Nom de parkings :SABINom de places libres :0308Nombres de places au total :0485Date :2022-01-31T19:38:53Nom de parkings :GARDNom de places libres :0296Nombres de places au total :0395Date :2022-01-31T19:43:17Nom de parkings :MOSSNom de places libres :0261Nombres de places au total :0423Date :2022-01-31T19:39:51Nom de parkings :SJLCNom de places libres :0210Nombres de places au total :0290Date :2022-01-31T19:40:58Nom de parkings :MEDCNom de places libres :0156Nombres de places au total :0255Date :2022-01-31T19:39:54Nom de parkings :OCCINom de places libres :0540Nombres de places au total :0627Date :2022-01-31T19:42:49Nom de parkings :VICANom de places libres :0074Nombres de places au total :0074Date :2022-01-31T19:41:27Nom de parkings :GAUMONT-ESTNom de places libres :0102Nombres de places au total :0109Date :2022-01-31T19:41:27Nom de parkings :GAUMONT-OUESTNom de places libres :0185Nombres de places au total :0250Date :2022-01-31T19:39:53Nom de parkings :CDGANom de places libres :0116Nombres de places au total :0260Date :2022-01-31T19:41:50Nom de parkings :ARCENom de places libres :0230Nombres de places au total :0230Date :2022-01-04T18:57:40.845339500Nom de parkings :POLYNom de places libres :1448Nombres de places au total :1911Date :2022-01-31T19:44:57Nom de parkings :ANTINom de places libres :0148Nombres de places au total :0239Date :2022-01-31T19:47:59Nom de parkings :COMENom de places libres :0332Nombres de places au total :0835Date :2022-01-31T19:47:51Nom de parkings :CORUNom de places libres :0213Nombres de places au total :0430Date :2022-01-31T19:47:53Nom de parkings :EURONom de places libres :0474Nombres de places au total :0593Date :2022-01-31T19:44:53Nom de parkings :FOCHNom de places libres :0174Nombres de places au total :0540Date :2022-01-31T19:47:58Nom de parkings :GAMBNom de places libres :0119Nombres de places au total :0470Date :2022-01-31T19:46:02Nom de parkings :GARENom de places libres :411Nombres de places au total :656Date :2022-01-31T19:47:09.939Nom de parkings :TriangleNom de places libres :255Nombres de places au total :436Date :2022-01-31T19:44:51Nom de parkings :ARCTNom de places libres :0138Nombres de places au total :0460Date :2022-01-31T19:46:09.871Nom de parkings :PitotNom de places libres :382Nombres de places au total :588Date :2018-05-30T14:02:56Nom de parkings :CIRCNom de places libres :0585Nombres de places au total :1200Date :2022-01-31T19:46:50Nom de parkings :SABINom de places libres :0313Nombres de places au total :0485Date :2022-01-31T19:43:57Nom de parkings :GARDNom de places libres :0296Nombres de places au total :0395Date :2022-01-31T19:48:11Nom de parkings :MOSSNom de places libres :0261Nombres de places au total :0423Date :2022-01-31T19:44:57Nom de parkings :SJLCNom de places libres :0210Nombres de places au total :0290Date :2022-01-31T19:45:52Nom de parkings :MEDCNom de places libres :0156Nombres de places au total :0255Date :2022-01-31T19:44:50Nom de parkings :OCCINom de places libres :0542Nombres de places au total :0627Date :2022-01-31T19:47:55Nom de parkings :VICANom de places libres :0074Nombres de places au total :0074Date :2022-01-31T19:46:29Nom de parkings :GAUMONT-ESTNom de places libres :0102Nombres de places au total :0109Date :2022-01-31T19:46:29Nom de parkings :GAUMONT-OUESTNom de places libres :0184Nombres de places au total :0250Date :2022-01-31T19:44:59Nom de parkings :CDGANom de places libres :0116Nombres de places au total :0260Date :2022-01-31T19:47:58Nom de parkings :ARCENom de places libres :0230Nombres de places au total :0230Date :2022-01-04T18:57:40.845339500Nom de parkings :POLYNom de places libres :1448Nombres de places au total :1911Date :2022-01-31T19:47:51
+Date :2022-01-31T19:47:51
 Nom de parkings :ANTI
-Nom de places libres :0149Nombres de places au total :0239Date :2022-01-31T19:47:59
+Nom de places libres :0149
+Nombres de places au total :0239
+Date :2022-01-31T19:47:59
 Nom de parkings :COME
-Nom de places libres :0332Nombres de places au total :0835Date :2022-01-31T19:47:51
+Nom de places libres :0332
+Nombres de places au total :0835
+Date :2022-01-31T19:50:56
 Nom de parkings :CORU
-Nom de places libres :0213Nombres de places au total :0430Date :2022-01-31T19:47:53
+Nom de places libres :0212
+Nombres de places au total :0430
+Date :2022-01-31T19:47:53
 Nom de parkings :EURO
-Nom de places libres :0474Nombres de places au total :0593Date :2022-01-31T19:44:53
+Nom de places libres :0474
+Nombres de places au total :0593
+Date :2022-01-31T19:49:52
 Nom de parkings :FOCH
-Nom de places libres :0174Nombres de places au total :0540Date :2022-01-31T19:47:58
+Nom de places libres :0175
+Nombres de places au total :0540
+Date :2022-01-31T19:47:58
 Nom de parkings :GAMB
-Nom de places libres :0119Nombres de places au total :0470Date :2022-01-31T19:48:03
+Nom de places libres :0119
+Nombres de places au total :0470
+Date :2022-01-31T19:48:03
 Nom de parkings :GARE
-Nom de places libres :409Nombres de places au total :656Date :2022-01-31T19:49:09.964
+Nom de places libres :409
+Nombres de places au total :656
+Date :2022-01-31T19:50:09.980
 Nom de parkings :Triangle
-Nom de places libres :257Nombres de places au total :436Date :2022-01-31T19:44:51
+Nom de places libres :257
+Nombres de places au total :436
+Date :2022-01-31T19:49:56
 Nom de parkings :ARCT
-Nom de places libres :0138Nombres de places au total :0460Date :2022-01-31T19:47:09.883
+Nom de places libres :0135
+Nombres de places au total :0460
+Date :2022-01-31T19:48:09.883
 Nom de parkings :Pitot
-Nom de places libres :382Nombres de places au total :588Date :2018-05-30T14:02:56
+Nom de places libres :382
+Nombres de places au total :588
+Date :2018-05-30T14:02:56
 Nom de parkings :CIRC
-Nom de places libres :0585Nombres de places au total :1200Date :2022-01-31T19:46:50
+Nom de places libres :0585
+Nombres de places au total :1200
+Date :2022-01-31T19:46:50
 Nom de parkings :SABI
-Nom de places libres :0313Nombres de places au total :0485Date :2022-01-31T19:48:50
+Nom de places libres :0313
+Nombres de places au total :0485
+Date :2022-01-31T19:48:50
 Nom de parkings :GARD
-Nom de places libres :0296Nombres de places au total :0395Date :2022-01-31T19:48:11
+Nom de places libres :0296
+Nombres de places au total :0395
+Date :2022-01-31T19:48:11
 Nom de parkings :MOSS
-Nom de places libres :0261Nombres de places au total :0423Date :2022-01-31T19:44:57
+Nom de places libres :0261
+Nombres de places au total :0423
+Date :2022-01-31T19:49:53
 Nom de parkings :SJLC
-Nom de places libres :0210Nombres de places au total :0290Date :2022-01-31T19:45:52
+Nom de places libres :0211
+Nombres de places au total :0290
+Date :2022-01-31T19:50:57
 Nom de parkings :MEDC
-Nom de places libres :0156Nombres de places au total :0255Date :2022-01-31T19:44:50
+Nom de places libres :0156
+Nombres de places au total :0255
+Date :2022-01-31T19:49:56
 Nom de parkings :OCCI
-Nom de places libres :0542Nombres de places au total :0627Date :2022-01-31T19:47:55
+Nom de places libres :0543
+Nombres de places au total :0627
+Date :2022-01-31T19:47:55
 Nom de parkings :VICA
-Nom de places libres :0074Nombres de places au total :0074Date :2022-01-31T19:46:29
+Nom de places libres :0074
+Nombres de places au total :0074
+Date :2022-01-31T19:46:29
 Nom de parkings :GAUMONT-EST
-Nom de places libres :0102Nombres de places au total :0109Date :2022-01-31T19:46:29
+Nom de places libres :0102
+Nombres de places au total :0109
+Date :2022-01-31T19:46:29
 Nom de parkings :GAUMONT-OUEST
-Nom de places libres :0184Nombres de places au total :0250Date :2022-01-31T19:44:59
+Nom de places libres :0184
+Nombres de places au total :0250
+Date :2022-01-31T19:49:53
 Nom de parkings :CDGA
-Nom de places libres :0116Nombres de places au total :0260Date :2022-01-31T19:47:58
+Nom de places libres :0116
+Nombres de places au total :0260
+Date :2022-01-31T19:47:58
 Nom de parkings :ARCE
-Nom de places libres :0230Nombres de places au total :0230Date :2022-01-04T18:57:40.845339500
+Nom de places libres :0230
+Nombres de places au total :0230
+Date :2022-01-04T18:57:40.845339500
 Nom de parkings :POLY
-Nom de places libres :1448Nombres de places au total :1911
+Nom de places libres :1448
+Nombres de places au total :1911
+Date :2022-01-31T19:47:51
+Nom de parkings :ANTI
+Nom de places libres :0149
+Nombres de places au total :0239
+Date :2022-01-31T19:50:53
+Nom de parkings :COME
+Nom de places libres :0330
+Nombres de places au total :0835
+Date :2022-01-31T19:50:56
+Nom de parkings :CORU
+Nom de places libres :0212
+Nombres de places au total :0430
+Date :2022-01-31T19:50:57
+Nom de parkings :EURO
+Nom de places libres :0478
+Nombres de places au total :0593
+Date :2022-01-31T19:49:52
+Nom de parkings :FOCH
+Nom de places libres :0175
+Nombres de places au total :0540
+Date :2022-01-31T19:50:52
+Nom de parkings :GAMB
+Nom de places libres :0123
+Nombres de places au total :0470
+Date :2022-01-31T19:50:05
+Nom de parkings :GARE
+Nom de places libres :412
+Nombres de places au total :656
+Date :2022-01-31T19:50:09.980
+Nom de parkings :Triangle
+Nom de places libres :257
+Nombres de places au total :436
+Date :2022-01-31T19:49:56
+Nom de parkings :ARCT
+Nom de places libres :0135
+Nombres de places au total :0460
+Date :2022-01-31T19:49:09.883
+Nom de parkings :Pitot
+Nom de places libres :380
+Nombres de places au total :588
+Date :2018-05-30T14:02:56
+Nom de parkings :CIRC
+Nom de places libres :0585
+Nombres de places au total :1200
+Date :2022-01-31T19:46:50
+Nom de parkings :SABI
+Nom de places libres :0313
+Nombres de places au total :0485
+Date :2022-01-31T19:48:50
+Nom de parkings :GARD
+Nom de places libres :0296
+Nombres de places au total :0395
+Date :2022-01-31T19:48:11
+Nom de parkings :MOSS
+Nom de places libres :0261
+Nombres de places au total :0423
+Date :2022-01-31T19:49:53
+Nom de parkings :SJLC
+Nom de places libres :0211
+Nombres de places au total :0290
+Date :2022-01-31T19:50:57
+Nom de parkings :MEDC
+Nom de places libres :0156
+Nombres de places au total :0255
+Date :2022-01-31T19:49:56
+Nom de parkings :OCCI
+Nom de places libres :0543
+Nombres de places au total :0627
+Date :2022-01-31T19:47:55
+Nom de parkings :VICA
+Nom de places libres :0074
+Nombres de places au total :0074
+Date :2022-01-31T19:50:38
+Nom de parkings :GAUMONT-EST
+Nom de places libres :0102
+Nombres de places au total :0109
+Date :2022-01-31T19:50:38
+Nom de parkings :GAUMONT-OUEST
+Nom de places libres :0183
+Nombres de places au total :0250
+Date :2022-01-31T19:49:53
+Nom de parkings :CDGA
+Nom de places libres :0116
+Nombres de places au total :0260
+Date :2022-01-31T19:50:52
+Nom de parkings :ARCE
+Nom de places libres :0230
+Nombres de places au total :0230
