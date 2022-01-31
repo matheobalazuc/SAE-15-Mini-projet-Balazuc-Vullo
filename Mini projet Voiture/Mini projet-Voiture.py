@@ -43,4 +43,3 @@ for i in parkings: #pour un nombre quelconque (i) dans la liste des parkings
 
 
 
-
