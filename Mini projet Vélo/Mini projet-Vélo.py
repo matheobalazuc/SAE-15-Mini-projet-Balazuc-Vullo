@@ -28,7 +28,7 @@ for user in tree.xpath("/vcs/sl/si"):         #Boucle qui va récupérer les don
 	f1.write(f"------- Actualisation de la station dans 30 minutes -------")
 	f1.write("\n")
 	f1.write("\n")
-time.sleep(10)            #Pour arreter et redémarrer le programmme dans 30min
+time.sleep(1800)            #Pour arreter et redémarrer le programmme dans 30min
 
 		                       
 	

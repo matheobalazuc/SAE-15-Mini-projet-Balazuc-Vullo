@@ -4,7 +4,6 @@ import requests #requests est un module python permettant d'utiliser le protocol
 from lxml import etree #pour importer le librairie html
 from lxml import etree
 import time
-#import pygnuplot
 
 parkings=['FR_MTP_ANTI','FR_MTP_COME','FR_MTP_CORU','FR_MTP_EURO','FR_MTP_FOCH','FR_MTP_GAMB','FR_MTP_GARE','FR_MTP_TRIA','FR_MTP_ARCT',
 'FR_MTP_PITO','FR_MTP_CIRC','FR_MTP_SABI','FR_MTP_GARC','FR_MTP_MOSS','FR_STJ_SJLC','FR_MTP_MEDC','FR_MTP_OCCI','FR_CAS_VICA','FR_MTP_GA109','FR_MTP_GA250','FR_CAS_CDGA','FR_MTP_ARCE','FR_MTP_POLY'] #voici la liste des différents parkings
@@ -44,7 +43,8 @@ for i in parkings: #pour un nombre quelconque (i) dans la liste des parkings
 		f1.write(f"------- Actualisation des parkings dans 30 minutes -------")
 		f1.write("\n")
 		f1.write("\n")
-time.sleep(10)   
+time.sleep(1800)   #Pour arreter et redémarrer le programmme dans 30min
+
 
 
 
