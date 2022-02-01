@@ -40,6 +40,7 @@ for i in parkings: #pour un nombre quelconque (i) dans la liste des parkings
 		f1.write("Nombres de places au total :")
 		f1.write(user.text)
 		f1.write("\n")
+		f1.write("\n")
 
 
 

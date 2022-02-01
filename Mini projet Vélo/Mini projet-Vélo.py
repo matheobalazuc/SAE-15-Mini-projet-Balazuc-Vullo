@@ -1,7 +1,7 @@
 import requests                                    #Fournit le protocole http
 import time                                        #Fournit un tas de fonction liés au temps
 from lxml import etree                             #Fournit la librairie html
-#from time import sleep                             #On import la fonction "sleep" depuis "temps" 
+from time import sleep                             #On import la fonction "sleep" depuis "temps" 
 
 bike=20
 		
