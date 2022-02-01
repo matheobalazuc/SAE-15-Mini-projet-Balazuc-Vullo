@@ -12,19 +12,23 @@ f1.close()                                     #On ferme le fichier
 f1=open("vélo_résultat.txt","a", encoding='utf8')                 
 tree = etree.parse("vélo.txt")
 for user in tree.xpath("/vcs/sl/si"):         #Boucle qui va récupérer les données dans le fichier de données des vélos dans les balises html vcs/sl/si .  
-		f1.write(f"Nom de la station : ")       #Nom de la station a afficher dans le vélo_résultat.txt a la suite de la donnée récupéré            
-		f1.write(user.get("na"))                   #Récupère les données du serveur sur le nom de la station    
-		f1.write("\n")								#Saut de ligne pour mieux organiser le fichier du résultat : vélo_résultat.txt
-		f1.write(f"Places libres : ")               #Places libres a afficher dans le vélo_résultat.txt a la suite de la donnée récupéré       
-		f1.write(user.get("fr"))                   #Récupère les données du serveur sur le nombre de places libres
-		f1.write("\n")
-		f1.write(f"Places occupées : ")            #Places occupées a afficher dans le vélo_résultat.txt a la suite de la donnée récupéré          
-		f1.write(user.get("av"))                  #Récupère les données du serveur sur le nombre de places occuppées 
-		f1.write("\n")
-		f1.write(f"Nombre de places totales : ")     #Nombre de places totales a afficher dans le vélo_résultat.txt a la suite de la donnée récupéré                  
-		f1.write(user.get("fr"))                   #Récupère les données du serveur sur le nombre de place totales
-		f1.write("\n") 
-		f1.write("\n")                           #Saut de ligne pour mieux organiser le fichier du résultat : vélo_résultat.txt
-		  
+	f1.write(f"Nom de la station : ")       #Nom de la station a afficher dans le vélo_résultat.txt a la suite de la donnée récupéré            
+	f1.write(user.get("na"))                   #Récupère les données du serveur sur le nom de la station    
+	f1.write("\n")								#Saut de ligne pour mieux organiser le fichier du résultat : vélo_résultat.txt
+	f1.write(f"Places libres : ")               #Places libres a afficher dans le vélo_résultat.txt a la suite de la donnée récupéré       
+	f1.write(user.get("fr"))                   #Récupère les données du serveur sur le nombre de places libres
+	f1.write("\n")
+	f1.write(f"Places occupées : ")            #Places occupées a afficher dans le vélo_résultat.txt a la suite de la donnée récupéré          
+	f1.write(user.get("av"))                  #Récupère les données du serveur sur le nombre de places occuppées 
+	f1.write("\n")
+	f1.write(f"Nombre de places totales : ")     #Nombre de places totales a afficher dans le vélo_résultat.txt a la suite de la donnée récupéré                  
+	f1.write(user.get("fr"))                   #Récupère les données du serveur sur le nombre de place totales
+	f1.write("\n") 
+	f1.write("\n")                           #Saut de ligne pour mieux organiser le fichier du résultat : vélo_résultat.txt
+	f1.write(f"------- Actualisation de la station dans 30 minutes -------")
+	f1.write("\n")
+	f1.write("\n")
+time.sleep(10)            #Pour arreter et redémarrer le programmme dans 30min
+
 		                       
 	
