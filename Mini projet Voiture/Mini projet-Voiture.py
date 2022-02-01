@@ -19,7 +19,7 @@ for i in parkings: #pour un nombre quelconque (i) dans la liste des parkings
 	tree = etree.parse("Voiture.txt") #fonction pour analyser et créer des données XML.
 	
 	
-	f1=open("Resultat.txt","a", encoding='utf8')
+	f1=open("voiture_résultat.txt","a", encoding='utf8')
 	for user in tree.xpath("DateTime"): #le programme récupère les données dans la variable "Free"(place libre) du fichier .txt
 		print('Date :',user.text) #le programme affiche les données dans la variable "Free"(place libre) du fichier .txt
 		f1.write("Date :")
